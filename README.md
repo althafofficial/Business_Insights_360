@@ -110,7 +110,7 @@ Four major dashboard views were developed based on over **500,000+ customer reco
 
 This report gives a comprehensive look into AtliQ’s financial performance, including revenue, profit margin, and cost breakdowns.
 
-![Finance View]((https://github.com/althafofficial/Business_Insights_360/blob/main/Finance%20View.png))
+![Finance View](https://github.com/althafofficial/Business_Insights_360/blob/main/Finance%20View.png)
 
 ---
 
