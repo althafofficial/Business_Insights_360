@@ -1,6 +1,6 @@
-# AtliQ Technologies - Customer & Business Insights Dashboard
+# Business_Insights_360 - Customer & Business Insights Dashboard
 
-Welcome to the **AtliQ Technologies** Data Analysis Project. This project involves analyzing customer and product data from AtliQ Technologies — a fictional global technology brand that offers a vast range of products including monitors, accessories, desktops, laptops, networking devices, and storage solutions. The goal is to derive meaningful business insights across four key areas: **Finance**, **Sales**, **Marketing**, and **Supply Chain**.
+This project involves analyzing customer and product data from AtliQ Technologies — a fictional global technology brand that offers a vast range of products including monitors, accessories, desktops, laptops, networking devices, and storage solutions. The goal is to derive meaningful business insights across four key areas: **Finance**, **Sales**, **Marketing**, and **Supply Chain**.
 
 ---
 
