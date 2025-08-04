@@ -58,7 +58,7 @@ AtliQ's product catalog is divided into six major segments, each containing seve
 
 Four major dashboard views were developed based on over **500,000+ customer records**:
 
-### 🔹 1. Finance View
+### 🔹 1. [Finance View](https://github.com/althafofficial/Business_Insights_360/blob/main/Finance%20View.png)
 - Revenue breakdown by region, product segment, and customer type
 - Profit margins and financial performance across years
 - Top/bottom performing regions and categories
