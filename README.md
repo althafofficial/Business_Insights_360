@@ -105,3 +105,44 @@ Four major dashboard views were developed based on over **500,000+ customer reco
 
 **Althaf** – Aspiring Data Analyst | Excel | Power BI | DAX | SQL  
 *Portfolio, resume, and contact information available upon request or visit [your portfolio website link]*
+-----
+## 📊 Finance View
+
+This report gives a comprehensive look into AtliQ’s financial performance, including revenue, profit margin, and cost breakdowns.
+
+![Finance View](https://github.com/your-username/your-repo-name/blob/main/Finance_View.png?raw=true)
+
+---
+
+## 📈 Sales View
+
+The Sales Dashboard highlights regional and product-wise sales performance, top contributing products, and customer sales trends.
+
+![Sales View](https://github.com/your-username/your-repo-name/blob/main/Sales_View.png?raw=true)
+
+---
+
+## 📣 Marketing View
+
+This view focuses on campaign performance, conversion metrics, and region-wise customer engagement — supporting data-driven marketing strategies.
+
+![Marketing View](https://github.com/your-username/your-repo-name/blob/main/Marketing_View.png?raw=true)
+
+---
+
+## 🚚 Supply Chain View
+
+The Supply Chain dashboard presents insights on stock availability, delivery timelines, and supplier performance.
+
+![Supply Chain View](https://github.com/your-username/your-repo-name/blob/main/Supply_Chain_View.png?raw=true)
+
+---
+
+## 🧩 Data Modeling
+
+This view outlines the underlying Power BI data model architecture — showcasing relationships, star schema setup, and table dependencies.
+
+![data Modeling](https://github.com/your-username/your-repo-name/blob/main/Data_Modeling_View.png?raw=true)
+
+---
+
