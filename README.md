@@ -63,17 +63,17 @@ Four major dashboard views were developed based on over **500,000+ customer reco
 - Profit margins and financial performance across years
 - Top/bottom performing regions and categories
 
-### 🔹 2. Sales View
+### 🔹 2. [Sales View](https://github.com/althafofficial/Business_Insights_360/blob/main/Sales%20View.png)
 - Quantity sold, sales growth, and YoY performance
 - Country and market-level sales insights
 - Contribution analysis by product line
 
-### 🔹 3. Marketing View
+### 🔹 3. [Marketing View](https://github.com/althafofficial/Business_Insights_360/blob/main/Marketing%20View.png)
 - Customer segmentation by loyalty and frequency
 - Brand performance and penetration across regions
 - Campaign performance indicators
 
-### 🔹 4. Supply Chain View
+### 🔹 4. [Supply Chain View](https://github.com/althafofficial/Business_Insights_360/blob/main/Supply%20Chain%20View.png)
 - Inventory turnover and stock efficiency
 - Fulfillment rates by region
 - Lead time and vendor performance metrics
@@ -84,7 +84,7 @@ Four major dashboard views were developed based on over **500,000+ customer reco
 
 - **Power BI** for dashboard creation
 - **Excel/CSV** for initial data preparation
-- **DAX** & **Power Query** for data modeling and transformation
+- **DAX** & **Power Query** for [data modeling](https://github.com/althafofficial/Business_Insights_360/blob/main/Data%20Modelling.png) and transformation
 - **Advanced Excel** for EDA and exploratory filtering
 
 ---
@@ -104,45 +104,4 @@ Four major dashboard views were developed based on over **500,000+ customer reco
 ## 🙋‍♂️ Author
 
 **Althaf** – Aspiring Data Analyst | Excel | Power BI | DAX | SQL  
-*Portfolio, resume, and contact information available upon request or visit [your portfolio website link]*
------
-## 📊 Finance View
-
-This report gives a comprehensive look into AtliQ’s financial performance, including revenue, profit margin, and cost breakdowns.
-
-![Finance View](https://github.com/althafofficial/Business_Insights_360/blob/main/Finance%20View.png)
-
----
-
-## 📈 Sales View
-
-The Sales Dashboard highlights regional and product-wise sales performance, top contributing products, and customer sales trends.
-
-![Sales View](https://github.com/your-username/your-repo-name/blob/main/Sales_View.png?raw=true)
-
----
-
-## 📣 Marketing View
-
-This view focuses on campaign performance, conversion metrics, and region-wise customer engagement — supporting data-driven marketing strategies.
-
-![Marketing View](https://github.com/your-username/your-repo-name/blob/main/Marketing_View.png?raw=true)
-
----
-
-## 🚚 Supply Chain View
-
-The Supply Chain dashboard presents insights on stock availability, delivery timelines, and supplier performance.
-
-![Supply Chain View](https://github.com/your-username/your-repo-name/blob/main/Supply_Chain_View.png?raw=true)
-
----
-
-## 🧩 Data Modeling
-
-This view outlines the underlying Power BI data model architecture — showcasing relationships, star schema setup, and table dependencies.
-
-![data Modeling](https://github.com/your-username/your-repo-name/blob/main/Data_Modeling_View.png?raw=true)
-
----
-
+*Portfolio, resume, and contact information available upon request or visit [https://thealthafofficial.netlify.app/]*
